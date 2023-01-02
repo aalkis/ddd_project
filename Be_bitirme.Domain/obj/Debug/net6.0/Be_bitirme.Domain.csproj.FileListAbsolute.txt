@@ -1,0 +1,14 @@
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\bin\Debug\net6.0\Be_bitirme.Domain.deps.json
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\bin\Debug\net6.0\Be_bitirme.Domain.runtimeconfig.json
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\bin\Debug\net6.0\Be_bitirme.Domain.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\bin\Debug\net6.0\Be_bitirme.Domain.pdb
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\Be_bitirme.Domain.csproj.AssemblyReference.cache
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\Be_bitirme.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\Be_bitirme.Domain.AssemblyInfoInputs.cache
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\Be_bitirme.Domain.AssemblyInfo.cs
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\Be_bitirme.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\Be_bitirme.Domain.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\refint\Be_bitirme.Domain.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\Be_bitirme.Domain.pdb
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\Be_bitirme.Domain.genruntimeconfig.cache
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Domain\obj\Debug\net6.0\ref\Be_bitirme.Domain.dll
