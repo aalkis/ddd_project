@@ -1,0 +1,17 @@
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\bin\Debug\net6.0\Be_bitirme.Core.deps.json
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\bin\Debug\net6.0\Be_bitirme.Core.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\bin\Debug\net6.0\Be_bitirme.Core.pdb
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\Be_bitirme.Core.csproj.AssemblyReference.cache
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\Be_bitirme.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\Be_bitirme.Core.AssemblyInfoInputs.cache
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\Be_bitirme.Core.AssemblyInfo.cs
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\Be_bitirme.Core.csproj.CoreCompileInputs.cache
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\Be_bitirme.Core.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\refint\Be_bitirme.Core.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\Be_bitirme.Core.pdb
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\ref\Be_bitirme.Core.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\bin\Debug\net6.0\Be_bitirme.Application.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\bin\Debug\net6.0\Be_bitirme.Domain.dll
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\bin\Debug\net6.0\Be_bitirme.Application.pdb
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\bin\Debug\net6.0\Be_bitirme.Domain.pdb
+C:\Users\SSTTEK User\Desktop\projects-1-main\backend\Projects\Be_bitirme\Be_bitirme.Core\obj\Debug\net6.0\Be_bitirme.Core.csproj.CopyComplete
